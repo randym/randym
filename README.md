@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![randym's GitHub stats](https://github-readme-stats.vercel.app/api?username=randym&include_all_commits=true&count_private=true&hide_title=true&hide=contribs)
-
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
 
 <!--
